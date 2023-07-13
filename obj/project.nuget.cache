@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEK8JLD//1UxvDMjFYEnROXkgByhXb1kjJj61ZNDnP5v9qvjkn+uO6nTBjey9ciC/J8ZhEnIT+UPfEfi/HMCmA==",
+  "success": true,
+  "projectFilePath": "/home/gabriel/Desktop/VSProjects/Tuplas/Tuplas.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
